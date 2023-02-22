@@ -2,10 +2,10 @@
 
 /**
  * _abs - Computes the absolute value of an integer.
- * @n: The integer to be computed.
- *
+ *@c: The number to be computed
  * Return: The absolute value of the integer.
  */
+
 int _abs(int c)
 	
 {
@@ -17,5 +17,4 @@ int _abs(int c)
 	return (abs_val);
 	}
 	return (c);
-
 }
